@@ -116,4 +116,4 @@ design escuro, fundo `#0A1628`. cada KPI tem uma cor diferente no topo do card p
 
 ---
 
-*dashboard_vendas_v2.xlsx · 2024*
+*dashboard_vendas.xlsx · 2024*
